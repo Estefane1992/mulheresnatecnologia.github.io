@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.titulo {
+    text-align: center;
+    margin-top: 5em;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.texto{
+    text-align: center;
+    margin: 30px;
+}
+.texto img {
+    height: 40vh;
+    width: 60vh;
+    float: left;
+    margin-right: 20px;
+    border-radius: 10%;
+}
+.texto p{
+    text-align: justify;
+    font-size: 1.2em;
+}
